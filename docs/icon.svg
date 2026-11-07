@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2a78d6"/>
+  <!-- Contributions band and growth curve, the same picture as the app's chart. -->
+  <path d="M104 392 L104 376 L408 300 L408 392 Z" fill="#ffffff" opacity=".28"/>
+  <path d="M104 376 C 220 352, 320 300, 408 150 L408 300 L104 376 Z" fill="#1baf7a" opacity=".9"/>
+  <path d="M104 376 C 220 352, 320 300, 408 150" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="408" cy="150" r="26" fill="#ffffff"/>
+</svg>
